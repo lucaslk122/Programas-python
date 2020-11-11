@@ -1,0 +1,29 @@
+{
+    "by": "address_standard",
+    "valid_key": true,
+    "results": {
+        "address": "2804:14c:173:8342:955c:1c2f:e1b0:678d",
+        "type": "ipv6",
+        "city": "S\u00e3o Paulo",
+        "region": "S\u00e3o Paulo",
+        "country_name": "Brasil",
+        "continent": "Am\u00e9rica do Sul",
+        "continent_code": "SA",
+        "region_code": "SP",
+        "country": {
+            "name": "Brasil",
+            "code": "BR",
+            "capital": "Bras\u00edlia",
+            "flag": {
+                "svg": "https://assets.hgbrasil.com/geoip/flags/svg/br.svg",
+                "png_16": "https://assets.hgbrasil.com/geoip/flags/16/br.png"
+            },
+            "calling_code": "55"
+        },
+        "latitude": -23.63,
+        "longitude": -46.6322,
+        "woeid": 455827
+    },
+    "execution_time": 0.03,
+    "from_cache": false
+}
